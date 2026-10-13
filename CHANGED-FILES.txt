@@ -1,0 +1,8 @@
+ crates/engine/src/prefs.rs        |   1 +
+ crates/ui-egui/src/i18n.rs        | 790 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-
+ crates/ui-egui/src/i18n/ui.rs     | 586 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-
+ crates/ui-egui/src/native_menu.rs |  23 +++++
+ crates/ui-egui/src/theme.rs       |  68 ++++++++++++--
+ docs/localization-ko.md           | 159 ++++++++++++++++++++++++++++++++
+ docs/localization-parity.md       |   8 +-
+ 7 files changed, 1618 insertions(+), 17 deletions(-)
